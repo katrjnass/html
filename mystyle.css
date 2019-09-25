@@ -1,0 +1,14 @@
+h1 {text-align: center; text-decoration: none; text-transform: uppercase; color: gold}
+h2 {text-align: center; text-decoration: none; color: forestgreen}
+h3 {text-align: center; text-decoration: none;font-weight: 700}
+.block1{color: darkred; text-align:left;font-size: larger; line-height: 150%; text-indent: 20px}
+body{margin-left:30px; margin-right: 30px; background-color: mintcream}
+span{text-transform: uppercase; color:darkgreen}
+li{text-transform: uppercase; color:red;font-weight: 900}
+p{line-height: 150%;font-size: large; color: blue}
+a:link{text-decoration: none}
+a:hover{text-decoration: underline}
+img{ padding-top: 40px; padding-right: 30px; padding-left: 30px}
+.text{color:blue; text-align: left}
+.title{color:green; text-align: center; text-indent: 20px}
+.block2{ margin-top: 50px}
